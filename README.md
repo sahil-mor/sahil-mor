@@ -19,7 +19,7 @@ Hi, I'm Sahil Mor, a NodeJS and React Native Developer, currently, looking for a
 
 **Talking about Personal Stuffs:**
 
-- 🛠 with NodeJS, Javascript, Mongoose, Firebase, PWA; 
+- 🛠 with NodeJS, React Native, Mongoose, Firebase, PWA; 
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - ⚡️ Fun-Fact: Everything seems to be easy when you start trying;
 - 📫 How to reach me: <a href="https://sahilmor.herokuapp.com/" target="_blank">https://sahilmor.herokuapp.com/</a>
