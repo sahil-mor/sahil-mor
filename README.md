@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Sahil Mor, a NodeJS and React Native Developer, currently, looking for a Internship. I'm a problem solving enthusiast and a product guy, I have an edge to create production code and participate in the design process as I strongly believe in Discover, Ideate, Design and define.
+Hi, I'm Sahil Mor, a NodeJS , Django and React Native Developer, currently, looking for a Internship. I'm a problem solving enthusiast and a product guy, I have an edge to create production code and participate in the design process as I strongly believe in Discover, Ideate, Design and define.
 
 <br/>
 <br/>
@@ -29,8 +29,10 @@ Hi, I'm Sahil Mor, a NodeJS and React Native Developer, currently, looking for a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
