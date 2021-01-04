@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Sahil Mor, a NodeJS , Django and React Native Developer, currently, looking for a Internship. I'm a problem solving enthusiast and a product guy, I have an edge to create production code and participate in the design process as I strongly believe in Discover, Ideate, Design and define.
+Hi, I'm Sahil Mor, a NodeJS , Django and React Native Developer, currently, looking for an Internship. I'm a problem solving enthusiast and a product guy, I have an edge to create production code and participate in the design process as I strongly believe in Discover, Ideate, Design and define.
 
 <br/>
 <br/>
