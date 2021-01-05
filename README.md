@@ -7,6 +7,10 @@
   <img align="left" alt="Sahil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
 </a>
 
+<a target="_blank" href="https://dev.to/sahilmor">
+  <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sahil Mor's DEV Community Profile" height="30" width="30">
+</a>
+
 <br />
 <br />
 
