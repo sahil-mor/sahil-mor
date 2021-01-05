@@ -1,15 +1,13 @@
 ### Hey 👋, I'm Sahil
-
 <a target="_blank" style="color : white;" href="https://www.linkedin.com/in/sahil-mor-65017b179/">
-  <img align="left"  alt="Sahil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/sahil_mor_370/">
-  <img align="left" alt="Sahil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://dev.to/sahilmor">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sahil Mor's DEV Community Profile" height="30" width="30">
-</a>
-
+   <img align="left"  alt="Sahil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
+ <a target="_blank" href="https://www.instagram.com/sahil_mor_370/">
+   <img align="left" alt="Sahil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+ </a>
+ <a target="_blank" href="https://dev.to/sahilmor">
+   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sahil Mor's DEV Community Profile" height="22" width="22">
+ </a>
 <br />
 <br />
 
