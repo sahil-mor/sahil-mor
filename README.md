@@ -6,7 +6,7 @@ a NodeJS , Django and React Native Developer, currently, looking for an Internsh
 
   <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
-**🧍 Talking about Personal Stuffs:**
+**Talking about Personal Stuffs:**
 
 - 🛠 with NodeJS, Django, React Native, Mongoose, Firebase,Postgresql, PWA; 
 - 💻 I’m looking to collaborate on kick ass products;
@@ -14,7 +14,7 @@ a NodeJS , Django and React Native Developer, currently, looking for an Internsh
 - 🌍 How to reach me: <a href="https://sahilmor.herokuapp.com/" target="_blank">https://sahilmor.herokuapp.com/</a>
 - 🎓 <a href="https://drive.google.com/file/d/1gct8Wf95ZNvgHjVy-nlLmIFy1fQ_QJqG/view?usp=sharing" target="_blank"> Resume </a> 
 
-**💼 Languages and Tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -28,7 +28,7 @@ a NodeJS , Django and React Native Developer, currently, looking for an Internsh
 
 
 
-**📈 GitHub Stats** 
+**GitHub Stats** 
 <p align="center">
   <a href="https://github.com/sahil-mor">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-mor&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
