@@ -28,7 +28,7 @@ a NodeJS , Django and React Native Developer, currently, looking for an Internsh
 
 
 
-** 📈 GitHub Stats ** 
+**📈 GitHub Stats** 
 <p align="center">
   <a href="https://github.com/sahil-mor">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-mor&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
