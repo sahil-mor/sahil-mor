@@ -9,9 +9,10 @@ a NodeJS , Django and React Native Developer, currently, looking for an Internsh
 **Talking about Personal Stuffs:**
 
 - 🛠 with NodeJS, Django, React Native, Mongoose, Firebase,Postgresql, PWA; 
-- 👨🏻‍💻 I’m looking to collaborate on kick ass products;
+- 💻 I’m looking to collaborate on kick ass products;
 - ⚡️ Fun-Fact: Everything seems to be easy when you start trying;
 - 📫 How to reach me: <a href="https://sahilmor.herokuapp.com/" target="_blank">https://sahilmor.herokuapp.com/</a>
+- 🎓 <a href="https://drive.google.com/file/d/1gct8Wf95ZNvgHjVy-nlLmIFy1fQ_QJqG/view?usp=sharing" target="_blank"> Resume </a> 
 
 **Languages and Tools:**  
 
