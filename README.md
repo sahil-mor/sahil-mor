@@ -28,16 +28,16 @@ a NodeJS , Django and React Native Developer, currently, looking for an Internsh
 
 
 
-## 📈 GitHub Stats
+** 📈 GitHub Stats ** 
+<p align="center">
+  <a href="https://github.com/sahil-mor">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-mor&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+  </a>
 
-<a href="https://github.com/sahil-mor">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-mor&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
-</a>
-
-<a href="https://github.com/sahil-mor">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sahil-mor&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Sahil Mor's GitHub Stats" />
-</a>
-
+  <a href="https://github.com/sahil-mor">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sahil-mor&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Sahil Mor's GitHub Stats" />
+  </a>
+</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/sahil-mor-65017b179/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
