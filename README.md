@@ -40,9 +40,9 @@ a NodeJS , Django and React Native Developer, currently, looking for an Internsh
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/sahil-mor-65017b179/"><img src="https://drive.google.com/file/d/1hMvWiX8ETEZ06IghQTfD9PzM0ORpbFd9/view?usp=sharing" width="60"></a>
-   <a href="https://www.instagram.com/sahil_mor_370/"><img src="https://drive.google.com/file/d/1nWybBZvqouh1jipiav0DRyw_HSWtZenr/view?usp=sharing" width="60"></a>
-   <a href="https://sahilmor.herokuapp.com/"><img src="https://drive.google.com/file/d/1hk4CUkCX4bhILncHwi5Rp204LrbbWhD4/view?usp=sharing" width="60"></a>
+   <a href="https://sahilmor.herokuapp.com/"><img src="https://github.com/sahil-mor/Social-Media-Icons/blob/master/website_icon.png" width="60"></a>
+   <a href="https://www.linkedin.com/in/sahil-mor-65017b179/"><img src="https://github.com/sahil-mor/Social-Media-Icons/blob/master/linkedin-icon.png" width="60"></a>
+   <a href="https://www.instagram.com/sahil_mor_370/"><img src="https://github.com/sahil-mor/Social-Media-Icons/blob/master/instagram-icon.png" width="60"></a>
 </p>
 
 
