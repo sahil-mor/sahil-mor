@@ -12,7 +12,6 @@ I'm a problem solving enthusiast and a product guy, I have an edge to create pro
 - 💻 I’m looking to collaborate on kick ass products;
 - ⚡️ Fun-Fact: Everything seems to be easy when you start trying;
 - 🌍 How to reach me: <a href="https://sahilmor.herokuapp.com/" target="_blank">https://sahilmor.herokuapp.com/</a>
-- 🎓 <a href="https://drive.google.com/file/d/1994CWdoyWZEN5HpIL1IRUFZ_ZuObf7wi/view" target="_blank"> Resume </a> 
 
 **Languages and Tools:**  
 
